@@ -52,4 +52,4 @@ Evaluation frameworks (RAG metrics)
 Deployment with APIs and UI
 📌 Conclusion
 
-This project demonstrates my ability to design and implement production-relevant AI systems using modern GenAI techniques, with a strong focus on Accuracy, Scalability, and practical application.
+This project demonstrates my ability to design and implement production-relevant AI systems using modern GenAI techniques, with a strong focus on accuracy, scalability, and practical application.
