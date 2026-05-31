@@ -39,7 +39,7 @@ Explored chunking strategies & similarity search optimization
 Designed for scalability and real-world use cases
 📚 Learning & Insights
 
-This project is part of my journey into Generative AI, LLMOps, and AI Engineering.
+This project is part of my journey into Generative AI, LLMOps, and AI Engineering..
 My focus was on:
 
 Understanding how retrieval enhances LLM reasoning
