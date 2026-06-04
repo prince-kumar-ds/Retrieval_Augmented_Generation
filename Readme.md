@@ -6,7 +6,7 @@ Author: Prince Kumar
 
 This project implements a Retrieval Augmented Generation (RAG) pipeline to enhance the capabilities of Large Language Models (LLMs) by grounding responses in external data sources. It focuses on building a system that generates factually accurate, context-aware, and reliable outputs by combining semantic search with generative AI.
 
-🎯 Problem Statement-
+🎯 Problem Statement
 
 LLMs are powerful but come with key limitations:
 
