@@ -40,7 +40,7 @@ Designed for scalability and real-world use cases
 📚 Learning & Insights
 
 This project is part of my journey into Generative AI, LLMOps, and AI Engineering..
-My focus was on:
+My focus Was On:
 
 Understanding how retrieval enhances LLM reasoning
 Moving beyond API usage to system-level design thinking
